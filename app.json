@@ -18,6 +18,12 @@
       "description": "The username of your ruboty's slack account.",
       "value": "ruboty"
     },
+    "DOCOMO_API_KEY": {
+      "description": "Pass DoCoMo API KEY",
+    },
+    "DOCOMO_CHARACTER_ID": {
+      "description": "Character ID to be passed as t parameter (default: nil)",
+    },
     "TZ": {
       "description": "Timezone.",
       "value": "Asia/Tokyo"
